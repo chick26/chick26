@@ -1,4 +1,4 @@
-![Chick's Stats](https://github-readme-stats.vercel.app/api?username=chick26&show_icons=true)
+![Chick's Stats](https://github-readme-stats.vercel.app/api?username=chick26&show_icons=true&&hide_title=true&theme=calm)
 
 ## 🚌 ON MY WAAAY
 
