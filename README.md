@@ -1,5 +1,3 @@
-![Chick's Stats](https://github-readme-stats.vercel.app/api?username=chick26)
-
 ## 🚌 ON MY WAAAY
 
 ### 📸 PHOTOGRAPH
