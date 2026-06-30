@@ -28,7 +28,7 @@
 
 I like building small, practical systems that help people **capture context, understand information, and turn messy inputs into useful outputs**.
 
-最近在关注：
+Current:
 
 - 🧠 **Agentic workflows** — orchestrators, subagents, memory, tools, and diagnostics  
 - 📚 **Knowledge tooling** — course notes, second brain workflows, timeline evidence  
